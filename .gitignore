@@ -6,6 +6,7 @@
 .keras/*
 .nv/*
 .venv/*
+.jupyter/*
 
 # Logs and outputs
 logs/*
