@@ -1,0 +1,59 @@
+# default files
+.cache/*
+.config/*
+.ipython/*
+.local/*
+.keras/*
+.nv/*
+.venv/*
+
+# Logs and outputs
+logs/*
+models/*
+runs/*
+
+# Data
+idd_temporal_test_1(1).zip
+RDD2022_India.zip
+test1.tar.gz
+train.tar.gz
+data/*
+datasets/*
+India/*
+
+# Models
+yolo26n.pt
+yolov8n.pt
+yolov8s.pt
+
+# src/India_data_only
+src/India_data_only/yolo26n.pt
+src/India_data_only/yolov8m.pt
+src/India_data_only/yolov8s.pt
+src/India_data_only/yolov8n.pt
+
+# src
+src/fine_tuning/potholes_cracks_python_dataset/cracks_potholes.ipynb
+
+# src/rd22
+src/fine_tuning/rd22/calibration_image_sample_data_20x128x128x3_float32.npy
+src/fine_tuning/rd22/yolo26n.pt
+
+# src/three_countries
+src/three_countries/inference_on_video.ipynb
+src/three_countries/yolo26n.pt
+src/three_countries/yolo26s.pt
+src/three_countries/yolov8m.pt
+src/three_countries/yolov8n.pt
+src/three_countries/yolov8s.pt
+
+# App
+app.py
+
+# calibration data
+src/fine_tuning/rd22/calibration_image_sample_data_20x128x128x3_float32.npy
+
+
+
+
+
