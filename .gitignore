@@ -10,7 +10,6 @@
 
 # Logs and outputs
 logs/*
-models/*
 runs/*
 
 # Data
